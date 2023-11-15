@@ -43,3 +43,9 @@ Finalizada la prueba, en el panel de resultados de ejecución **RUN** del IDE se
 HTML report: (paste into browser to view) | Karate version: 1.0.0
 ````
 Hacer clic en Link del reporte en HTML
+
+## Datos de Contacto:
+
+**Autor: Herbert Melendez Garcia**
+
+**Linkedin:** www.linkedin.com/in/herb-me-ga
