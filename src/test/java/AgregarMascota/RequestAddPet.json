@@ -1,0 +1,20 @@
+{
+  "TramaAdd":{
+    "id": "#(idPet)",
+    "category": {
+      "id": "#(idCategoryPet)",
+      "name": "#(CategoryName)"
+    },
+    "name": "#(NamePet)",
+    "photoUrls": [
+      "#(PhotoUrlPet)"
+    ],
+    "tags": [
+      {
+        "id": "#(idTagPet)",
+        "name": "#(TagNamePet)"
+      }
+    ],
+    "status": "#(status)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "TramaExiste": {
+    "id": "#number",
+    "category": "#notnull",
+    "name": "#string",
+    "photoUrls": "#notnull",
+    "tags": "#notnull",
+    "status": "#notnull"
+  },
+  "TramaNoExiste": {
+    "code": "#number",
+    "type": "#notnull",
+    "message": "#string"
+  }
+}
